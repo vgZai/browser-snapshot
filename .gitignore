@@ -1,0 +1,15 @@
+# local snapshot data (browser Session_* / Tabs_* files and meta.json)
+snapshots/
+
+# restore logs
+logs/
+*.log
+
+# local backups
+*.bak
+*.bak*
+*.bak-*
+
+# Windows junk
+Thumbs.db
+Desktop.ini
